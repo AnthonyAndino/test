@@ -13,14 +13,14 @@
 
 <img src="https://raw.githubusercontent.com/AnthonyAndino/test/main/assets/me.jpg" width="280px" align="right" style="border-radius: 50%; margin-left: 20px;" />
 
-<p>
+<p align="left">
   🚀 Currently developing my <b>programming skills</b> and building real projects.<br>
   💻 Experience building <b>web systems</b> with React, Node.js and Bootstrap.<br>
   🎌 Interest in <b>Anime, Movies</b>, and exploring new tech.<br>
   📋 I focus on solutions that are <b>simple, useful, and well-organized</b>.
 </p>
 
-<p>
+<p align="left">
   <b>📫 Reach Me on:</b><br><br>
   <a href="mailto:anthonyandino959@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -35,6 +35,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+<br clear="both">
 
 ---
 
