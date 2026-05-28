@@ -71,12 +71,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyAndino&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyAndino&theme=radical&hide_border=false" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyAndino&theme=monokai" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyAndino&theme=monokai&hide_border=false" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthonyAndino&theme=radical&hide_border=false" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthonyAndino&theme=react-dark&color=e33636&line=e33636&point=ffffff&bg_color=2d2d2d&hide_border=false" width="100%" />
 </p>
 
 ---
