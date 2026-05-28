@@ -8,7 +8,9 @@
 
 ---
 
-## 💫 About Me
+<p align="center">
+  <img src="https://unpkg.com/lucide-static/icons/user.svg" width="18" height="18" /> <b>About Me</b>
+</p>
 
 <img src="https://raw.githubusercontent.com/AnthonyAndino/test/main/assets/me.jpg" width="280px" align="right" style="border-radius: 50%; margin-left: 20px;" />
 
@@ -20,7 +22,7 @@
 </p>
 
 <p align="left">
-  <b>📫 Reach Me on:</b><br><br>
+  <img src="https://unpkg.com/lucide-static/icons/send.svg" width="16" height="16" /> <b>Reach Me on</b><br><br>
   <a href="mailto:anthonyandino959@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -39,7 +41,9 @@
 
 ---
 
-## 📚 Languages & Tools
+<p align="center">
+  <img src="https://unpkg.com/lucide-static/icons/code-2.svg" width="18" height="18" /> <b>Languages & Tools</b>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,php,py,js,ts,html,css,cpp,c&theme=dark" />
@@ -49,7 +53,9 @@
 
 ---
 
-## 📊 Tech Stack
+<p align="center">
+  <img src="https://unpkg.com/lucide-static/icons/layers.svg" width="18" height="18" /> <b>Tech Stack</b>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -68,7 +74,9 @@
 
 ---
 
-## 📈 GitHub Stats
+<p align="center">
+  <img src="https://unpkg.com/lucide-static/icons/bar-chart-3.svg" width="18" height="18" /> <b>Stats</b>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyAndino&theme=monokai" height="180" />
