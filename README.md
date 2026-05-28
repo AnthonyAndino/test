@@ -77,10 +77,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthonyAndino&theme=dark" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthonyAndino&theme=dark&bg_color=0d1117&hide_border=false" width="100%" />
 </p>
 
