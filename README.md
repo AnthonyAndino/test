@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER DE IMAGEN (arte japonés) -->
-<img src="https://raw.githubusercontent.com/AnthonyAndino/AnthonyAndino/main/assets/banner1.jpg" width="100%" />
+<img src="https://raw.githubusercontent.com/AnthonyAndino/test/main/assets/banner1.jpg" width="100%" />
 
 # Namaste 🙏 I'm Anthony Andino
 ### Software Developer · Honduras 🇭🇳
@@ -83,7 +83,7 @@
 ---
 
 <!-- IMAGEN DE CIERRE -->
-<img src="https://raw.githubusercontent.com/AnthonyAndino/AnthonyAndino/main/assets/banner2.png" width="100%" />
+<img src="https://raw.githubusercontent.com/AnthonyAndino/test/main/assets/banner2.png" width="100%" />
 
 <br>
 
