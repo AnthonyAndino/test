@@ -34,7 +34,7 @@
       </a>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" />
+      <img src="https://raw.githubusercontent.com/AnthonyAndino/test/main/assets/me.jpg" width="200px" style="border-radius: 50%;" />
     </td>
   </tr>
 </table>
