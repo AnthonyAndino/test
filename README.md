@@ -8,9 +8,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://unpkg.com/lucide-static/icons/user.svg" width="18" height="18" /> <b>About Me</b>
-</p>
+<img src="https://img.shields.io/badge/About%20Me-2d2d2d?style=flat-square&labelColor=e33636&color=2d2d2d" />
 
 <img src="https://raw.githubusercontent.com/AnthonyAndino/test/main/assets/me.jpg" width="280px" align="right" style="border-radius: 50%; margin-left: 20px;" />
 
@@ -22,7 +20,7 @@
 </p>
 
 <p align="left">
-  <img src="https://unpkg.com/lucide-static/icons/send.svg" width="16" height="16" /> <b>Reach Me on</b><br><br>
+  <img src="https://img.shields.io/badge/Reach%20Me%20on-2d2d2d?style=flat-square&labelColor=e33636&color=2d2d2d" /><br><br>
   <a href="mailto:anthonyandino959@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -41,21 +39,13 @@
 
 ---
 
-<p align="center">
-  <img src="https://unpkg.com/lucide-static/icons/code-2.svg" width="18" height="18" /> <b>Languages & Tools</b>
-</p>
+<img src="https://img.shields.io/badge/Languages%20%26%20Tools-2d2d2d?style=flat-square&labelColor=e33636&color=2d2d2d" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,php,py,js,ts,html,css,cpp,c&theme=dark" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,tailwind,express,dotnet,django,qt,mysql&theme=dark" />
-</p>
+<img src="https://img.shields.io/badge/Stats-2d2d2d?style=flat-square&labelColor=e33636&color=2d2d2d" />
 
 ---
 
-<p align="center">
-  <img src="https://unpkg.com/lucide-static/icons/layers.svg" width="18" height="18" /> <b>Tech Stack</b>
-</p>
+<img src="https://img.shields.io/badge/Tech%20Stack-2d2d2d?style=flat-square&labelColor=e33636&color=2d2d2d" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -75,16 +65,13 @@
 ---
 
 <p align="center">
-  <img src="https://unpkg.com/lucide-static/icons/bar-chart-3.svg" width="18" height="18" /> <b>Stats</b>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyAndino&theme=visual_studio_code&bg_color=1a1a1a&text_color=ffffff&color_external=e33636" height="180" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyAndino&theme=black-ice&fire=e33636&currStreakNum=e33636&sideNums=ffffff&sideLabels=ffffff&dates=888888&ring=e33636&stroke=e33636&background=1a1a1a&hide_border=false" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyAndino&theme=monokai" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyAndino&theme=monokai&hide_border=false" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthonyAndino&theme=react-dark&color=e33636&line=e33636&point=ffffff&bg_color=2d2d2d&hide_border=false" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthonyAndino&bg_color=1a1a1a&color=e33636&line=e33636&point=ffffff&area=true&hide_border=false" width="100%" />
 </p>
 
 ---
