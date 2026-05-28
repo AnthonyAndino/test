@@ -72,8 +72,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnthonyAndino&show_icons=true&theme=dark&hide_border=false&count_private=true" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyAndino&theme=dark" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyAndino&theme=dark&hide_border=false" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthonyAndino&theme=dark" width="100%" />
 </p>
 
 <p align="center">
