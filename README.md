@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- BANNER DE IMAGEN (arte japonés) -->
 <img src="https://raw.githubusercontent.com/AnthonyAndino/test/main/assets/banner1.jpg" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Anthony+Andino;Software+Developer+%C2%B7+Honduras+%F0%9F%87%AD%F0%9F%87%B3" width="60%" />
@@ -72,12 +71,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyAndino&theme=dark" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyAndino&theme=dark&hide_border=false" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyAndino&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyAndino&theme=radical&hide_border=false" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthonyAndino&theme=dark&bg_color=0d1117&hide_border=false" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnthonyAndino&theme=react-dark&color=ff4444&line=ff6666&point=ffffff&bg_color=1e1e1e&hide_border=false" width="100%" />
 </p>
 
 ---
