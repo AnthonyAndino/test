@@ -83,7 +83,7 @@
 ---
 
 <!-- IMAGEN DE CIERRE -->
-<img src="https://raw.githubusercontent.com/AnthonyAndino/test/main/assets/banner2.png" width="100%" />
+<img src="https://raw.githubusercontent.com/AnthonyAndino/test/main/assets/banner2.jpg" width="100%" />
 
 <br>
 
