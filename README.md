@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/AnthonyAndino/test/main/assets/banner1.jpg" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+<span style='color:%23E33636;'>👋</span>%2C+I'm+Anthony+Andino;Software+Developer+<span style='color:%23E33636;'>·</span>+Honduras+🇭🇳" width="60%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=cc5555&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Anthony+Andino;Software+Developer+%C2%B7+Honduras+%F0%9F%87%AD%F0%9F%87%B3" width="60%" />
 
 <p align="center"><i>Still learning, still building — one line of code at a time.</i></p>
 
@@ -65,7 +65,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyAndino&theme=2077&bg_color=1a1a1a&text_color=ffffff&color=e33636" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnthonyAndino&show_icons=true&bg_color=1a1a1a&text_color=ffffff&icon_color=e33636&title_color=e33636&hide_border=true" height="180" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyAndino&theme=black-ice&fire=e33636&currStreakNum=e33636&sideNums=ffffff&sideLabels=ffffff&dates=888888&ring=e33636&stroke=e33636&background=1a1a1a&hide_border=false" height="180" />
 </p>
