@@ -71,7 +71,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyAndino&theme=radical" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnthonyAndino&show_icons=true&theme=radical&hide_border=false" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyAndino&theme=radical&hide_border=false" height="180" />
 </p>
 
