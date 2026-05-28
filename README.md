@@ -71,8 +71,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthonyAndino&theme=2077" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnthonyAndino&theme=2077" height="180" />
+  <img src="https://metrics.lecoq.io/AnthonyAndino?base=header,activity,community,repositories&base.indepth=true&config.timezone=America/Costa_Rica" width="100%" />
 </p>
 
 <p align="center">
