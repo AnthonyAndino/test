@@ -71,3 +71,56 @@
 *Less is more. Simple things last longer.*
 
 </div>
+
+
+
+
+
+
+<!-- BANNER PRINCIPAL -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnthonyAndino/AnthonyAndino/main/assets/banner.png"
+       alt="Banner Anthony Andino" width="100%" style="border-radius: 10px;"/>
+</div>
+
+# Hi, I'm Anthony Andino 👋
+### Software Developer · Honduras 🇭🇳
+> Building simple, effective solutions through code.
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300C2FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Anthony+Andino;Software+Developer+from+Honduras+🇭🇳;Always+learning+new+things;Building+simple+and+cool+projects)](https://git.io/typing-svg)
+
+---
+
+<!-- ABOUT ME con imagen lateral -->
+<img align="right" src="https://raw.githubusercontent.com/AnthonyAndino/AnthonyAndino/main/assets/side-art.png" width="220" alt="art"/>
+
+## 👤 About Me
+- 🎯 I focus on building solutions that are simple, useful, and well-organized
+- 📚 Self-taught developer, always exploring new technologies
+- 🎌 Anime and movies enthusiast
+- 🎮 Gamer at heart
+- 📋 Interested in agile methodologies and personal organization
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+... (tu sección actual de tech stack va aquí) ...
+
+---
+
+## 📊 GitHub Stats
+... (tu sección de stats) ...
+
+---
+
+<!-- FOOTER decorativo -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnthonyAndino/AnthonyAndino/main/assets/footer.png"
+       width="100%" alt="footer"/>
+</div>
+
+*Less is more. Simple things last longer.*
