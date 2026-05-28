@@ -3,9 +3,9 @@
 <!-- BANNER DE IMAGEN (arte japonés) -->
 <img src="https://raw.githubusercontent.com/AnthonyAndino/test/main/assets/banner1.jpg" width="100%" />
 
-# Namaste 🙏 I'm Anthony Andino
-### Software Developer · Honduras 🇭🇳
-> 🌟 Building simple, effective solutions through code.
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Anthony+Andino;Software+Developer+%C2%B7+Honduras+%F0%9F%87%AD%F0%9F%87%B3" width="100%" />
+
+<p align="center"><i>Still learning, still building — one line of code at a time.</i></p>
 
 ---
 
